@@ -3,7 +3,7 @@
 - ## Phase 1: Setting Up Cloud Environment (Backend)
   - ### Clay, Lambda, and Serenity become the initial characters in Ayurveda Project Management AI.
     - #### 1. Web
-      - Probably gurantees of service offered for web editor app. Can start with three month guarantee of web editor service likely free to start. This is in the case that a web editor service is less expensive than finding a web editor solution that is inexpensive.
+      - Probably gurantees of service offered for web editor app. Can start with three month guarantee of web editor service likely free to start. This is in the case that creating an Ayurveda Project Manageement AI web editor service is less expensive than finding a web editor solution that is inexpensive.
 - ## Phase 2: Data Ingestion and Management
 - ## Phase 3: First AI Model
 - ## Phase 4: Building and Deploying
