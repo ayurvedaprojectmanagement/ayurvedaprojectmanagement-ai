@@ -2,7 +2,7 @@
 
 - ## Phase 1: Setting Up Cloud Environment (Backend)
   - ### Clay, Lambda, and Serenity become the initial characters in Ayurveda Project Management AI.
-    - #### 1. Web
+    - #### 1.1 Web
 - ## Phase 2: Data Ingestion and Management
 - ## Phase 3: First AI Model
 - ## Phase 4: Building and Deploying
